@@ -87,10 +87,16 @@ namespace ExtraaEdge.Controllers
             
                 var profitLoss = await _service.CalculateProfitLossAsync(fromDate, toDate, compareWith);
 
-            return Ok(profitLoss);
-           
-           
-          
+            if (profitLoss > 0)
+            {
+                return Ok(new { Message = "TotalProfit", Amount = profitLoss });
+            }
+            else
+            {
+                return Ok(new { Message = "TotalLoss", Amount = profitLoss });
+            }
+
+
         }
 
         [Authorize(Roles = "Admin")]

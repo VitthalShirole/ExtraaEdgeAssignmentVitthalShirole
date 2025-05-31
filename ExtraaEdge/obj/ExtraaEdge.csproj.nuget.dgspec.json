@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ExtraaEdgeAssignmentGit\\ExtraaEdge.NetCoreAssignment\\ExtraaEdge\\ExtraaEdge.csproj": {}
+    "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj": {}
   },
   "projects": {
-    "G:\\ExtraaEdgeAssignmentGit\\ExtraaEdge.NetCoreAssignment\\ExtraaEdge\\ExtraaEdge.csproj": {
+    "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ExtraaEdgeAssignmentGit\\ExtraaEdge.NetCoreAssignment\\ExtraaEdge\\ExtraaEdge.csproj",
+        "projectUniqueName": "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj",
         "projectName": "ExtraaEdge",
-        "projectPath": "G:\\ExtraaEdgeAssignmentGit\\ExtraaEdge.NetCoreAssignment\\ExtraaEdge\\ExtraaEdge.csproj",
+        "projectPath": "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\ExtraaEdgeAssignmentGit\\ExtraaEdge.NetCoreAssignment\\ExtraaEdge\\obj\\",
+        "outputPath": "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
