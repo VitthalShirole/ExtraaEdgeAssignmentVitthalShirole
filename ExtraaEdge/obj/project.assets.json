@@ -2176,11 +2176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj",
+      "projectUniqueName": "G:\\DataCheck\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj",
       "projectName": "ExtraaEdge",
-      "projectPath": "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj",
+      "projectPath": "G:\\DataCheck\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\ExtraaEdge.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "G:\\CheckAssinment\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\obj\\",
+      "outputPath": "G:\\DataCheck\\ExtraaEdgeAssignmentVitthalShirole\\ExtraaEdge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
