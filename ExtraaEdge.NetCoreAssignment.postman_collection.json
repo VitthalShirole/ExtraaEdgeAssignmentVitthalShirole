@@ -582,7 +582,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoic2FsZXNwZXJzb24iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJTYWxlcyIsImV4cCI6MTczNTA3MTQzMiwiaXNzIjoiTW9iaWxlU3RvcmVBUEkiLCJhdWQiOiJNb2JpbGVTdG9yZUFQSSJ9.V42uHE2iFKOc4D79hB-o4MKTPTKqTaxr7zepKUlBLJg",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc0ODY4NTA2MywiaXNzIjoiWW91ckFwcE5hbWUiLCJhdWQiOiJZb3VyQXBwTmFtZSJ9.4UWoW2bMdht89d7Npm4kWY3lK2aoOyqXQ7jvWQMwX0E",
 									"type": "string"
 								}
 							]
